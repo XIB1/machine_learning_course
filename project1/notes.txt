@@ -1,0 +1,11 @@
+read file with pandas
+	- set delimiter and quotechar
+	- replace quotes
+	- replace quotes in headers
+
+df.info
+df.head
+
+plot columns as histograms with plt to get distribution
+
+heatmap to get correlations
